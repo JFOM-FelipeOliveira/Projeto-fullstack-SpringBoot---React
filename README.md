@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://github.com/JFOM-FelipeOliveira/Projeto-fullstack-SpringBoot---React.git/images/spring.png" width="20%">
-  <img src="https://github.com/JFOM-FelipeOliveira/Projeto-fullstack-SpringBoot---React.git/images/react.png" width="15%">
+  <img src="https://github.com/JFOM-FelipeOliveira/Projeto-fullstack-SpringBoot---React/blob/main/images/spring.png" width="20%">
+  <img src="https://github.com/JFOM-FelipeOliveira/Projeto-fullstack-SpringBoot---React/blob/main/images/react.png" width="15%">
   <h1 style="border-bottom:none">Spring Boot e React</h1>
   <br>
   <br>
